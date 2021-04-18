@@ -1,1 +1,1 @@
-<h3>Contato (view)</h3>
+<h3 style="color:pink">Contato (view)</h3>
